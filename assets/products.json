@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro",
+    "description": "Apple's wireless noise-cancelling earbuds with adaptive transparency and spatial audio.",
+    "image": "https://www.apple.com/newsroom/images/product/airpods/standard/airpods-pro-hero-20191028.jpg.og.jpg?202309180815",
+    "price": 249.99
+  },
+  {
+    "id": 2,
+    "name": "Apple Watch Series 9",
+    "description": "Latest smartwatch from Apple featuring always-on retina display and advanced health monitoring.",
+    "image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-Series-9-double-tap-gesture-hero-09182023.jpg.og.jpg?202309180815",
+    "price": 399.99
+  },
+  {
+    "id": 3,
+    "name": "Bose Noise Cancelling Headphones",
+    "description": "Premium noise-cancelling over-ear headphones with 20 hours of battery life and voice assistant integration.",
+    "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/quietcomfort45/product_silo_images/QC45_SM_blk_EC_hero.psd/jcr:content/renditions/cq5dam.web.600.600.png",
+    "price": 349.99
+  },
+  {
+    "id": 4,
+    "name": "Dyson V15 Vacuum",
+    "description": "Powerful cordless vacuum with laser-detect technology and advanced filtration system.",
+    "image": "https://www.dyson.com.cn/cdn/shop/files/V15_Detect_Absolute_Laser_Red_blue_Hero_MG_600x.jpg",
+    "price": 699.99
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Flagship smartphone with 200MP camera, 120Hz AMOLED display, and S Pen support.",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2301/gallery/levant-galaxy-s24-ultra-600447-sm-s918bzkdmea-531523013?$650_519_PNG$",
+    "price": 1199.99
+  },
+  {
+    "id": 6,
+    "name": "iPad Pro",
+    "description": "12.9-inch iPad Pro with M2 chip, Liquid Retina XDR display, and 5G connectivity.",
+    "image": "https://www.apple.com/newsroom/images/product/ipad/standard/Apple_iPad-Pro_M2_display_hero_04182023.jpg.og.jpg?202304180815",
+    "price": 1099.99
+  },
+  {
+    "id": 7,
+    "name": "iPhone 16 Pro",
+    "description": "Apple's latest iPhone with A18 Bionic chip, ProMotion display, and advanced triple-lens camera system.",
+    "image": "https://www.apple.com/newsroom/images/product/iphone/standard/iphone-16-pro-overview-hero.jpg.og.jpg?202407100815",
+    "price": 1299.99
+  },
+  {
+    "id": 8,
+    "name": "MacBook Pro 16-inch",
+    "description": "High-performance laptop with M2 Max chip, Liquid Retina XDR display, and 1TB SSD.",
+    "image": "https://www.apple.com/v/macbook-pro-14-and-16/b/images/overview/hero_endframe__e6khcva4hke6_large.jpg",
+    "price": 2499.99
+  },
+  {
+    "id": 9,
+    "name": "Nike Air Max 270",
+    "description": "Popular running shoes with Nike Air cushioning and breathable mesh upper.",
+    "image": "https://static.nike.com/a/images/t_default/455ccc8a-6e36-4a80-b678-d759cbde3ebf/air-max-270-mens-shoes-KkLcGR.png",
+    "price": 149.99
+  },
+  {
+    "id": 10,
+    "name": "PlayStation 5",
+    "description": "Sony's latest gaming console with 8K output, lightning-fast load times, and 825GB SSD.",
+    "image": "https://www.sony.com/image/9bd5f5f293f52813009d9d7f0280ec93?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+    "price": 499.99
+  }
+]
