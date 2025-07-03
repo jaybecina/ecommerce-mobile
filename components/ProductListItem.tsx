@@ -16,20 +16,21 @@ type Product = {
 
 const ProductListItem = ({ product }: { product: Product }) => {
   return (
-    <Card className="p-5 rounded-lg max-w-[360px] m-3">
+    <Card className="p-5 rounded-lg max-w-[360px] flex-1">
       <Image
         source={{
           uri: product.image,
         }}
         className="mb-6 h-[240px] w-full rounded-md aspect-[4/3]"
         alt={product.name}
+        resizeMode="contain"
       />
       <Text className="text-sm font-normal mb-2 text-typography-700">
         Fashion Clothing
       </Text>
       <VStack className="mb-6">
         <Heading size="md" className="mb-4">
-          {product.name}
+          ${product.price}
         </Heading>
         <Text size="sm">{product.description}</Text>
       </VStack>
