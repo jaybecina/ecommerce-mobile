@@ -15,7 +15,6 @@ type Product = {
 };
 
 const ProductListItem = ({ product }: { product: Product }) => {
-  console.log("Rerender product item");
   return (
     <Link href={`/product/${product.id}`} asChild>
       <Pressable className="flex-1">

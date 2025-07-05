@@ -4,10 +4,6 @@ import ProductListItem from "@/components/ProductListItem";
 import { useBreakpointValue } from "@/components/ui/utils/use-break-point-value";
 
 export default function HomeScreen() {
-  // const { width } = useWindowDimensions();
-  // const numColumns = width > 700 ? 3 : 2;
-  // console.log("Rerender home");
-
   const numColumns = useBreakpointValue({
     default: 2,
     sm: 3,
